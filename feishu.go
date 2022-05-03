@@ -1,5 +1,5 @@
 // 飞书自定义机器人
-package gonotice
+package gonotify
 
 import (
 	"bytes"

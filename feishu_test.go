@@ -1,4 +1,4 @@
-package gonotice
+package gonotify
 
 import (
 	"testing"
